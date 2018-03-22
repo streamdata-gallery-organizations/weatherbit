@@ -12,8 +12,8 @@ x-kinRank: "8"
 x-alexaRank: ""
 tags:
 - Weather
-created: "2018-03-15"
-modified: "2018-03-15"
+created: "2018-03-22"
+modified: "2018-03-22"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/weatherbit/master/_listings/weatherbit/apis.yaml
 specificationVersion: "0.14"
 apis:
